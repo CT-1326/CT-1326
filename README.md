@@ -5,6 +5,11 @@ BSAA7567
         src= "https://img.shields.io/badge/Tech-Blog-grey?logo=github"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://www.acmicpc.net/user/smw765">
+    <img 
+        src= "https://img.shields.io/badge/BOJ-blue?logo=Visual-Studio-Code"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 ===
 ![BSAA7567's github stats](https://github-readme-stats.vercel.app/api?username=BSAA7567&count_private=true&theme=react&show_icons=true)
 
