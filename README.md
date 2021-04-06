@@ -5,7 +5,7 @@ CT-1326
         src= "https://img.shields.io/badge/Tech-Blog-grey?logo=github"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.acmicpc.net/user/smw765">
+<a href="https://www.acmicpc.net/user/ct1326">
     <img 
         src= "https://img.shields.io/badge/BOJ-blue?logo=Visual-Studio-Code"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
