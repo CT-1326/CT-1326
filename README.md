@@ -13,4 +13,6 @@ CT-1326
 ===
 ![CT-1326's github stats](https://github-readme-stats.vercel.app/api?username=CT-1326&count_private=true&theme=react&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CT-1326&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CT-1326&hide=C%23,Shaderlab,hlsl&langs_count=8&layout=compact)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CT1326)
