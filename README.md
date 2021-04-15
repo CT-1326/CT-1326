@@ -111,7 +111,7 @@ ocr 기술을 활용해 wifi 패스워드 글자를 스캔 그리고 해당 wifi
 ### [The_Camp](https://github.com/CT-1326/The_Camp)
 군대에 입대한 동기들에게 특정 시간 단위로 동기들이 요청한 내용의 편지를 자동으로 작성하는 매크로 편지
 
-<img src="https://user-images.githubusercontent.com/33346331/114826051-f820ff00-9e01-11eb-8935-2031a4ed1e83.png" height="400"/> <img src="https://user-images.githubusercontent.com/33346331/114826054-f9522c00-9e01-11eb-971f-a301488dcae8.png" height="500"/>
+<img src="https://user-images.githubusercontent.com/33346331/114826051-f820ff00-9e01-11eb-8935-2031a4ed1e83.png" height="300"/> <img src="https://user-images.githubusercontent.com/33346331/114826054-f9522c00-9e01-11eb-971f-a301488dcae8.png" height="500"/>
 
 ### [covid-rodong](https://github.com/Team-CONO/covid-rodong)
 aos 기술을 활용해 코로나 바이러스 관련 내용을 소개하는 스크롤 액션 페이지
