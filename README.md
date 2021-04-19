@@ -86,8 +86,6 @@ CT-1326
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CT-1326&hide=C%23,Shaderlab,hlsl&langs_count=8&layout=compact)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CT1326)
-
 ## My BOJ stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ct1326)](https://solved.ac/ct1326)
