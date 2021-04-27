@@ -84,7 +84,7 @@ CT-1326
 ## My Github Stats
 ![CT-1326's github stats](https://github-readme-stats.vercel.app/api?username=CT-1326&count_private=true&theme=react&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CT-1326&hide=C%23,Shaderlab,hlsl&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CT-1326&hide=C%23,Shaderlab,hlsl&langs_count=5&layout=compact)
 
 ## My BOJ stats
 [![Solved.ac
