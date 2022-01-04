@@ -88,6 +88,7 @@ CT-1326
 ## My BOJ stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ct1326)](https://solved.ac/ct1326)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ct1326&theme=dark)
 
 ## My Pinned projects
 ### [SNAP-WIFI](https://github.com/CT-1326/SNAP-WIFI)
