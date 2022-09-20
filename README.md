@@ -18,7 +18,7 @@ CT-1326
 ### <div align="center">HI I'm CT-1326,  Welcome to my profile👋</div>  
   
 
-- 💻 I’m studying and working on the WEB/APP  
+- 💻 I’m studying and working on the WEB-APP  
   
 
 - 👨‍💻 And also, I'm trying to solve the algorithm problem with Python.  
