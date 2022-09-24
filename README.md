@@ -18,16 +18,16 @@ CT-1326
 ### <div align="center">HI I'm CT-1326,  Welcome to my profile👋</div>  
   
 
-- 💻 I’m studying and working on the WEB-APP  
+- 💻 웹앱을 공부하는 백엔드 개발자 입니다.
   
 
-- 👨‍💻 And also, I'm trying to solve the algorithm problem with Python.  
+- 👨‍💻 또한, 알고리즘을 파이썬을 이용해서 풀어보곤 합니다.
   
 
-- 📑 All my projects have been released and the development notes related to the project are uploaded to 'wiki'  
+- 📑 모든 프로젝트는 공개되어 있으며 'wiki' 탭에 개발일지를 작성해 업로드 합니다.
   
 
-- 😁 Hope my project will help someone!  
+- 😁 나의 프로젝트가 누군가에게 도움이 되길 바랍니다!
   
 
 <br/>  
