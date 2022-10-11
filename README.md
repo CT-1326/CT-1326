@@ -104,7 +104,7 @@ CT-1326
 
 
 ### [Discord-Hook](https://github.com/CT-1326/Discord-Hook)
-원하는 웹 페이지 내용을 디스코드를 통해 자동으로 알림 메시지로 받아보는 자동화 프로젝트
+원하는 웹 페이지 내용을 디스코드를 통해 자동으로 알림 메시지로 받아보는 매크로 프로젝트
 
 <img src="https://user-images.githubusercontent.com/33346331/114825512-4aadeb80-9e01-11eb-8f15-62aa506d04ad.png" height="200"/> <img src="https://user-images.githubusercontent.com/33346331/114825520-4b468200-9e01-11eb-90a1-156a04dd78af.png" height="300"/>
 
