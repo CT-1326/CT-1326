@@ -113,10 +113,10 @@ CT-1326
 
 <img src="https://user-images.githubusercontent.com/33346331/114826051-f820ff00-9e01-11eb-8935-2031a4ed1e83.png" height="300"/> <img src="https://user-images.githubusercontent.com/33346331/114826054-f9522c00-9e01-11eb-971f-a301488dcae8.png" height="500"/>
 
-### [covid-rodong](https://github.com/Team-CONO/covid-rodong)
-AOS 기술을 활용해 코로나 바이러스 관련 내용을 소개하는 스크롤 액션 페이지 프로젝트
+### [Angel-Kitchen_Server](https://github.com/OpenSW-TeamLC/Angel-Kitchen_Server)
+무료급식소 오픈API를 활용한 급식소 조회와 반경 검색의 API 그리고 명세화 프로젝트
 
-![Animation](https://user-images.githubusercontent.com/33346331/174418767-388e8657-92e8-41d4-bcaa-e6acfc6dcb85.gif)
+![제목 없음](https://user-images.githubusercontent.com/33346331/200501955-770c30c8-dbf8-40e1-b415-4601c1acae4d.png)
 
 
 ### [SNAP-WIFI](https://github.com/CT-1326/SNAP-WIFI)
