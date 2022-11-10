@@ -92,13 +92,13 @@ CT-1326
 
 ## My Pinned projects
 ### [ComgongBOT](https://github.com/Team-Helper/ComgongBOT)
-성결대학교 팀 HELPER 졸업작품 컴퓨터공학과 전용 카카오 챗봇 프로젝트
+성결대학교 컴퓨터공학과 팀 HELPER 졸업작품인 학과 전용 카카오 챗봇 프로젝트
 
 <img width="296" alt="KakaoTalk_Snapshot_20220618_112714" src="https://user-images.githubusercontent.com/33346331/174419111-15764016-5a0c-4832-b43c-9c3b8c27761f.png"> <img width="296" alt="KakaoTalk_Snapshot_20220618_112745" src="https://user-images.githubusercontent.com/33346331/174419112-a868522c-087a-43c6-8b9a-fa2587b030c0.png"> <img width="296" alt="KakaoTalk_Snapshot_20220618_112846" src="https://user-images.githubusercontent.com/33346331/174419113-f3a9b2ab-2a88-47ab-a975-c1d244a06c79.png">
 
 
 ### [ChannelBOT](https://github.com/CT-1326/ChannelBOT)
-학교 생활에 필요한 다양한 서비스를 안내하는 카카오 챗봇 프로젝트
+학교 생활에 필요한 다양한 안내를 서비스하는 성결대학교 카카오 챗봇 프로젝트
 
 <img width="251" alt="KakaoTalk_Snapshot_20220618_111854" src="https://user-images.githubusercontent.com/33346331/174418833-63905292-c4b8-4705-8fa3-9ac5b402f928.png"> <img width="251" alt="KakaoTalk_Snapshot_20220618_111907" src="https://user-images.githubusercontent.com/33346331/174418834-0db7c304-6fcd-4bd7-9f80-23032f4efd60.png"> <img width="251" alt="KakaoTalk_Snapshot_20220618_111921" src="https://user-images.githubusercontent.com/33346331/174418835-1d77620a-73f0-4c89-bebb-f9e25a6ef106.png">
 
