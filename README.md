@@ -92,7 +92,7 @@ CT-1326
 
 ## My Pinned projects
 ### [ComgongBOT](https://github.com/Team-Helper/ComgongBOT)
-성결대학교 팀 HELPER 졸업작품 컴퓨터공학과 전용 챗봇 프로젝트
+성결대학교 팀 HELPER 졸업작품 컴퓨터공학과 전용 카카오 챗봇 프로젝트
 
 <img width="296" alt="KakaoTalk_Snapshot_20220618_112714" src="https://user-images.githubusercontent.com/33346331/174419111-15764016-5a0c-4832-b43c-9c3b8c27761f.png"> <img width="296" alt="KakaoTalk_Snapshot_20220618_112745" src="https://user-images.githubusercontent.com/33346331/174419112-a868522c-087a-43c6-8b9a-fa2587b030c0.png"> <img width="296" alt="KakaoTalk_Snapshot_20220618_112846" src="https://user-images.githubusercontent.com/33346331/174419113-f3a9b2ab-2a88-47ab-a975-c1d244a06c79.png">
 
@@ -104,22 +104,22 @@ CT-1326
 
 
 ### [Discord-Hook](https://github.com/CT-1326/Discord-Hook)
-원하는 웹 페이지 내용을 디스코드를 통해 자동으로 알림 메시지로 받아보는 매크로 프로젝트
+원하는 웹 페이지 내용을 디스코드를 통해 자동으로 푸쉬 알림 받아보는 매크로 프로젝트
 
 <img src="https://user-images.githubusercontent.com/33346331/114825512-4aadeb80-9e01-11eb-8f15-62aa506d04ad.png" height="200"/> <img src="https://user-images.githubusercontent.com/33346331/114825520-4b468200-9e01-11eb-90a1-156a04dd78af.png" height="300"/>
 
 ### [The-Camp](https://github.com/CT-1326/The-Camp)
-군입대한 친구들에게 친구들이 요청한 & 궁금해할만한 내용의 편지를 자동으로 작성하는 매크로 편지 프로젝트
+입대한 친구들의 취향과 요청에 뉴스 소식을 자동으로 전송하는 매크로 편지 프로젝트
 
 <img src="https://user-images.githubusercontent.com/33346331/114826051-f820ff00-9e01-11eb-8935-2031a4ed1e83.png" height="300"/> <img src="https://user-images.githubusercontent.com/33346331/114826054-f9522c00-9e01-11eb-971f-a301488dcae8.png" height="500"/>
 
 ### [Angel-Kitchen_Server](https://github.com/OpenSW-TeamLC/Angel-Kitchen_Server)
-무료급식소 오픈API를 활용한 급식소 조회와 반경 검색의 API 그리고 명세화 프로젝트
+오픈SW 개발자대회 팀LC 천사식당 프로젝트의 무료급식소 오픈API를 적용한 급식소 조회와 반경 검색의 API 그리고 명세화 백엔드 프로젝트
 
 ![제목 없음](https://user-images.githubusercontent.com/33346331/200501955-770c30c8-dbf8-40e1-b415-4601c1acae4d.png)
 
 
-### [SNAP-WIFI](https://github.com/CT-1326/SNAP-WIFI)
-OCR 기술을 활용한 WIFI 비밀번호를 스캔 및 자동연결 안드로이드 앱 프로젝트
+### [SNAP-WIFI](https://github.com/TeamLC/SNAP-WIFI)
+OCR 기술을 활용한 WI-FI 비밀번호를 스캔 및 자동연결 안드로이드 앱 프로젝트
 
 <img src="https://user-images.githubusercontent.com/33346331/114824472-e179a880-9dff-11eb-9daf-0def158d1e39.jpg" height="500" /> <img src="https://user-images.githubusercontent.com/33346331/114824468-e0487b80-9dff-11eb-8bc9-7f393ed18f21.jpg" height="500" />
