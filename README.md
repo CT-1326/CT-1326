@@ -114,7 +114,7 @@ CT-1326
 <img src="https://user-images.githubusercontent.com/33346331/114826051-f820ff00-9e01-11eb-8935-2031a4ed1e83.png" height="300"/> <img src="https://user-images.githubusercontent.com/33346331/114826054-f9522c00-9e01-11eb-971f-a301488dcae8.png" height="500"/>
 
 ### [Angel-Kitchen_Server](https://github.com/OpenSW-TeamLC/Angel-Kitchen_Server)
-오픈SW 개발자대회 팀LC 천사식당 프로젝트의 무료급식소 오픈API를 적용한 급식소 조회와 반경 검색의 API 그리고 명세화 백엔드 프로젝트
+오픈SW 개발자대회 팀LC 천사식당 프로젝트의 무료급식소 조회와 사용자 위치 반경 검색의 API 프로젝트
 
 ![제목 없음](https://user-images.githubusercontent.com/33346331/200501955-770c30c8-dbf8-40e1-b415-4601c1acae4d.png)
 
