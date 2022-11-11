@@ -109,7 +109,7 @@ CT-1326
 <img src="https://user-images.githubusercontent.com/33346331/114825512-4aadeb80-9e01-11eb-8f15-62aa506d04ad.png" height="200"/> <img src="https://user-images.githubusercontent.com/33346331/114825520-4b468200-9e01-11eb-90a1-156a04dd78af.png" height="300"/>
 
 ### [The-Camp](https://github.com/CT-1326/The-Camp)
-입대한 친구들의 취향과 요청에 뉴스 소식을 자동으로 전송하는 매크로 편지 프로젝트
+입대한 친구들의 취향과 요청 뉴스 소식을 자동으로 전송하는 매크로 편지 프로젝트
 
 <img src="https://user-images.githubusercontent.com/33346331/114826051-f820ff00-9e01-11eb-8935-2031a4ed1e83.png" height="300"/> <img src="https://user-images.githubusercontent.com/33346331/114826054-f9522c00-9e01-11eb-971f-a301488dcae8.png" height="500"/>
 
