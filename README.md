@@ -97,7 +97,7 @@ CT-1326
 ### [ChannelBOT](https://github.com/CT-1326/ChannelBOT)
 학교 생활에 필요한 다양한 안내를 서비스하는 성결대학교 카카오 챗봇 프로젝트
 
-<img width="251" alt="KakaoTalk_Snapshot_20220618_111854" src="https://user-images.githubusercontent.com/33346331/174418833-63905292-c4b8-4705-8fa3-9ac5b402f928.png"> <img width="251" alt="KakaoTalk_Snapshot_20220618_111907" src="https://user-images.githubusercontent.com/33346331/174418834-0db7c304-6fcd-4bd7-9f80-23032f4efd60.png"> <img width="251" alt="KakaoTalk_Snapshot_20220618_111921" src="https://user-images.githubusercontent.com/33346331/174418835-1d77620a-73f0-4c89-bebb-f9e25a6ef106.png">
+<img width="200" alt="KakaoTalk_Snapshot_20220618_111854" src="https://user-images.githubusercontent.com/33346331/174418833-63905292-c4b8-4705-8fa3-9ac5b402f928.png"> <img width="200" alt="KakaoTalk_Snapshot_20220618_111907" src="https://user-images.githubusercontent.com/33346331/174418834-0db7c304-6fcd-4bd7-9f80-23032f4efd60.png"> <img width="200" alt="KakaoTalk_Snapshot_20220618_111921" src="https://user-images.githubusercontent.com/33346331/174418835-1d77620a-73f0-4c89-bebb-f9e25a6ef106.png">
 
 
 ### [Discord-Hook](https://github.com/CT-1326/Discord-Hook)
