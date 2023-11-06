@@ -108,7 +108,7 @@ CT-1326
 ### [The-Camp](https://github.com/CT-1326/The-Camp)
 입대한 친구들의 취향과 요청의 뉴스 소식을 자동으로 전송하는 매크로 편지 프로젝트
 
-<img src="https://user-images.githubusercontent.com/33346331/114826051-f820ff00-9e01-11eb-8935-2031a4ed1e83.png" width="500" height="300"/> <img src="https://user-images.githubusercontent.com/33346331/114826054-f9522c00-9e01-11eb-971f-a301488dcae8.png" height="500"/>
+<img src="https://user-images.githubusercontent.com/33346331/114826051-f820ff00-9e01-11eb-8935-2031a4ed1e83.png" width="300" height="300"/> <img src="https://user-images.githubusercontent.com/33346331/114826054-f9522c00-9e01-11eb-971f-a301488dcae8.png" height="500"/>
 
 ### [Angel-Kitchen_Server](https://github.com/OpenSW-TeamLC/Angel-Kitchen_Server)
 오픈SW 개발자대회 팀LC 천사식당 응모작 무료급식소 조회와 사용자 위치 반경 급식소 검색 API 프로젝트
