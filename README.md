@@ -21,10 +21,10 @@ CT-1326
 - 💻 웹앱을 공부하는 백엔드 개발자 입니다.
   
 
-- 👨‍💻 또한, 알고리즘을 파이썬을 이용해서 풀어보곤 합니다.
+- 👨‍💻 또한, 파이썬을 이용해 알고리즘을 풀어보곤 합니다.
   
 
-- 📑 모든 프로젝트는 공개되어 있으며 'wiki' 탭에 개발일지를 작성해 업로드 합니다.
+- 📑 모든 프로젝트는 공개되어 있으며 'wiki' 탭에 개발일지를 작성해 지식의 기록과 공유를 하고자 합니다.
   
 
 - 😁 나의 프로젝트가 누군가에게 도움이 되길 바랍니다!
@@ -80,17 +80,16 @@ CT-1326
 
 ## My Github Stats
 ![CT-1326's github stats](https://github-readme-stats.vercel.app/api?username=CT-1326&count_private=true&theme=react&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CT-1326&hide=C%23,Shaderlab,hlsl&layout=compact)
 
-## My BOJ stats
+## My BOJ Stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ct1326)](https://solved.ac/ct1326)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ct1326&theme=dark)
 
-## My Pinned projects
+## My Pinned Projects
 ### [ComgongBOT](https://github.com/Team-Helper/ComgongBOT)
-성결대학교 컴퓨터공학과 팀 HELPER 졸업작품인 학과 전용 카카오 챗봇 프로젝트
+성결대학교 컴퓨터공학과 팀 Helper 졸업작품 학과 전용 카카오 챗봇 프로젝트
 
 <img width="296" alt="KakaoTalk_Snapshot_20220618_112714" src="https://user-images.githubusercontent.com/33346331/174419111-15764016-5a0c-4832-b43c-9c3b8c27761f.png"> <img width="296" alt="KakaoTalk_Snapshot_20220618_112745" src="https://user-images.githubusercontent.com/33346331/174419112-a868522c-087a-43c6-8b9a-fa2587b030c0.png"> <img width="296" alt="KakaoTalk_Snapshot_20220618_112846" src="https://user-images.githubusercontent.com/33346331/174419113-f3a9b2ab-2a88-47ab-a975-c1d244a06c79.png">
 
@@ -107,17 +106,17 @@ CT-1326
 <img src="https://user-images.githubusercontent.com/33346331/114825512-4aadeb80-9e01-11eb-8f15-62aa506d04ad.png" height="200"/> <img src="https://user-images.githubusercontent.com/33346331/114825520-4b468200-9e01-11eb-90a1-156a04dd78af.png" height="300"/>
 
 ### [The-Camp](https://github.com/CT-1326/The-Camp)
-입대한 친구들의 취향과 요청 뉴스 소식을 자동으로 전송하는 매크로 편지 프로젝트
+입대한 친구들의 취향과 요청의 뉴스 소식을 자동으로 전송하는 매크로 편지 프로젝트
 
 <img src="https://user-images.githubusercontent.com/33346331/114826051-f820ff00-9e01-11eb-8935-2031a4ed1e83.png" height="300"/> <img src="https://user-images.githubusercontent.com/33346331/114826054-f9522c00-9e01-11eb-971f-a301488dcae8.png" height="500"/>
 
 ### [Angel-Kitchen_Server](https://github.com/OpenSW-TeamLC/Angel-Kitchen_Server)
-오픈SW 개발자대회 팀LC 천사식당 프로젝트의 무료급식소 조회와 사용자 위치 반경 검색의 API 프로젝트
+오픈SW 개발자대회 팀LC 천사식당 응모작 무료급식소 조회와 사용자 위치 반경 급식소 검색 API 프로젝트
 
 ![제목 없음](https://user-images.githubusercontent.com/33346331/200501955-770c30c8-dbf8-40e1-b415-4601c1acae4d.png)
 
 
 ### [SNAP-WIFI](https://github.com/TeamLC/SNAP-WIFI)
-OCR 기술을 활용한 WI-FI 비밀번호를 스캔 및 자동연결 안드로이드 앱 프로젝트
+OCR을 활용한 Wi-Fi 비밀번호 글자 스캔 및 자동연결 안드로이드 앱 프로젝트
 
 <img src="https://user-images.githubusercontent.com/33346331/114824472-e179a880-9dff-11eb-9daf-0def158d1e39.jpg" height="500" /> <img src="https://user-images.githubusercontent.com/33346331/114824468-e0487b80-9dff-11eb-8bc9-7f393ed18f21.jpg" height="500" />
