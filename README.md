@@ -78,6 +78,15 @@ CT-1326
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ct1326)](https://solved.ac/ct1326)
 
+## My Certificate
+![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/6a1009d6-278f-4df1-8bd6-b94913a46bbb)
+- AWS Certified Cloud Practitioner (2025)
+- 네트워크관리사 2급 (2020)
+- ITQ OA Master (2020)
+- 정보기기운용기능사 (2015)
+- OCJP (2014)
+- 정보처리기능사 (2012)
+
 ## My Pinned Projects
 ### [ComgongBOT](https://github.com/Team-Helper/ComgongBOT)
 성결대학교 컴퓨터공학과 팀 Helper 졸업작품 학과 전용 카카오 챗봇 프로젝트
