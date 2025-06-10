@@ -30,22 +30,13 @@ CT-1326
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+    <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
@@ -77,15 +68,6 @@ CT-1326
 ## My BOJ Stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ct1326)](https://solved.ac/ct1326)
-
-## My Certificate
-![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/6a1009d6-278f-4df1-8bd6-b94913a46bbb)
-- AWS Certified Cloud Practitioner (2025)
-- 네트워크관리사 2급 (2020)
-- ITQ OA Master (2020)
-- 정보기기운용기능사 (2015)
-- OCJP (2014)
-- 정보처리기능사 (2012)
 
 ## My Pinned Projects
 ### [ComgongBOT](https://github.com/Team-Helper/ComgongBOT)
