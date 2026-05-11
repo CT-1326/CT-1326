@@ -58,14 +58,6 @@ CT-1326
 
 <br/>  
 
-## My Github Stats
-![CT-1326's github stats](https://github-readme-stats.vercel.app/api?username=CT-1326&count_private=true&theme=react&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CT-1326&hide=C%23,Shaderlab,hlsl&layout=compact)
-
-## My BOJ Stats
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ct1326)](https://solved.ac/ct1326)
-
 ## My Pinned Projects
 ### [ComgongBOT](https://github.com/Team-Helper/ComgongBOT)
 성결대학교 컴퓨터공학과 팀 Helper 졸업작품 학과 전용 카카오 챗봇 프로젝트
