@@ -8,16 +8,13 @@ CT-1326
 ### <div align="center">HI I'm CT-1326,  Welcome to my profile👋</div>  
   
 
-- 💻 웹앱을 공부하는 백엔드 개발자 입니다.
-  
+- 💻 Webアプリを勉強しているバックエンドエンジニアです。
 
-- 👨‍💻 또한, 파이썬을 이용해 알고리즘을 풀어보곤 합니다.
-  
+- 👨‍💻 また、Pythonを使ってアルゴリズム問題を解いたりしています。
 
-- 📑 모든 프로젝트는 공개되어 있으며 'wiki' 탭에 개발일지를 작성해 지식의 기록과 공유를 하고자 합니다.
-  
+- 📑 すべてのプロジェクトは公開しており、「Wiki」タブに開発ログを記録することで、知見の共有に努めています。
 
-- 😁 나의 프로젝트가 누군가에게 도움이 되길 바랍니다!
+- 😁 私のプロジェクトが、誰かの役に立てれば嬉しいです！
   
 
 <br/>  
@@ -60,34 +57,34 @@ CT-1326
 
 ## My Pinned Projects
 ### [ComgongBOT](https://github.com/Team-Helper/ComgongBOT)
-성결대학교 컴퓨터공학과 팀 Helper 졸업작품 학과 전용 카카오 챗봇 프로젝트
+聖潔（ソンギョル）大学校 コンピュータ工学科 チーム「Helper」卒業制作：学科専用カカオトーク・チャットボット
 
 <img width="200" alt="KakaoTalk_Snapshot_20220618_112714" src="https://user-images.githubusercontent.com/33346331/174419111-15764016-5a0c-4832-b43c-9c3b8c27761f.png"> <img width="200" alt="KakaoTalk_Snapshot_20220618_112745" src="https://user-images.githubusercontent.com/33346331/174419112-a868522c-087a-43c6-8b9a-fa2587b030c0.png"> <img width="200" alt="KakaoTalk_Snapshot_20220618_112846" src="https://user-images.githubusercontent.com/33346331/174419113-f3a9b2ab-2a88-47ab-a975-c1d244a06c79.png">
 
 
 ### [ChannelBOT](https://github.com/CT-1326/ChannelBOT)
-학교 생활에 필요한 다양한 안내 서비스 성결대학교 카카오 챗봇 프로젝트
+学校生活に必要な各種案内サービス：聖潔大学校 カカオトーク・チャットボット
 
 <img width="200" alt="KakaoTalk_Snapshot_20220618_111854" src="https://user-images.githubusercontent.com/33346331/174418833-63905292-c4b8-4705-8fa3-9ac5b402f928.png"> <img width="200" alt="KakaoTalk_Snapshot_20220618_111907" src="https://user-images.githubusercontent.com/33346331/174418834-0db7c304-6fcd-4bd7-9f80-23032f4efd60.png"> <img width="200" alt="KakaoTalk_Snapshot_20220618_111921" src="https://user-images.githubusercontent.com/33346331/174418835-1d77620a-73f0-4c89-bebb-f9e25a6ef106.png">
 
 
 ### [Discord-Hook](https://github.com/CT-1326/Discord-Hook)
-원하는 웹 사이트 소식을 디스코드 메시지로 받아보는 자동 알람 프로젝트
+指定したウェブサイトの更新情報をDiscordで受け取る自動通知システム
 
 <img src="https://user-images.githubusercontent.com/33346331/114825512-4aadeb80-9e01-11eb-8f15-62aa506d04ad.png" height="200"/> <img src="https://user-images.githubusercontent.com/33346331/114825520-4b468200-9e01-11eb-90a1-156a04dd78af.png" height="300"/>
 
 ### [The-Camp](https://github.com/CT-1326/The-Camp)
-입대 장병 취향과 요청사항의 뉴스 소식을 자동으로 전달해주는 매크로 위문편지 프로젝트
+入隊兵士の希望に合わせたニュースを自動で届けるネット便り（慰問手紙）自動送信マクロ
 
 <img src="https://user-images.githubusercontent.com/33346331/114826051-f820ff00-9e01-11eb-8935-2031a4ed1e83.png" width="350" height="300"/> <img src="https://user-images.githubusercontent.com/33346331/114826054-f9522c00-9e01-11eb-971f-a301488dcae8.png" height="500"/>
 
 ### [Angel-Kitchen_Server](https://github.com/OpenSW-TeamLC/Angel-Kitchen_Server)
-오픈SW 개발자대회 팀LC 응모작 무료급식소 조회와 사용자 위치 반경 급식소 검색 API 프로젝트
+オープンSW開発者大会 チーム「LC」出展作：無料給食所の照会およびユーザー周辺の給食所検索API
 
 ![제목 없음](https://user-images.githubusercontent.com/33346331/200501955-770c30c8-dbf8-40e1-b415-4601c1acae4d.png)
 
 
 ### [SNAP-WIFI](https://github.com/TeamLC/SNAP-WIFI)
-OCR을 활용한 Wi-Fi 비밀번호 글자 스캔 및 자동연결 안드로이드 앱 프로젝트
+OCRを活用したWi-Fiパスワードの文字スキャンおよび自動接続Androidアプリ
 
 <img src="https://user-images.githubusercontent.com/33346331/114824472-e179a880-9dff-11eb-9daf-0def158d1e39.jpg" height="500" /> <img src="https://user-images.githubusercontent.com/33346331/114824468-e0487b80-9dff-11eb-8bc9-7f393ed18f21.jpg" height="500" />
